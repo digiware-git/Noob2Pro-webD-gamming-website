@@ -35,6 +35,15 @@ Welcome to **Noob2Pro**, a stylish and responsive gaming-themed website built as
 
 ---
 
-
+Noob2Pro-webD-gamming-website/
+│
+├── index.html
+├── css/
+│ └── style.css
+├── img/
+│ └── mac.png (and other images)
+├── assets/
+│ └── fonts, icons, banner, screenshots
+└── README.md
 ## 📁 Project Structure
 
