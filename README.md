@@ -35,14 +35,6 @@ Welcome to **Noob2Pro**, a stylish and responsive gaming-themed website built as
 
 ---
 
-## 📸 Screenshots
-
-| Home Page | Carousel | Cards |
-|----------|----------|-------|
-| ![Home](assets/screens/home.png) | ![Carousel](assets/screens/carousel.png) | ![Cards](assets/screens/cards.png) |
-*(Make sure to upload screenshots in an `assets/screens/` folder)*
-
----
 
 ## 📁 Project Structure
 
