@@ -2,16 +2,11 @@
 
 Welcome to **Noob2Pro**, a stylish and responsive gaming-themed website built as a web development project. This site is designed to showcase modern front-end development skills with a gamer-centric UI.
 
-![Noob2Pro Banner](https://github.com/digiware-git/Noob2Pro-webD-gamming-website/raw/main/assets/banner.jpg) <!-- Replace with actual image path if banner exists -->
+![Noob2Pro Banner](https://github.com/digiware-git/Noob2Pro-webD-gamming-website/raw/main/assets/banner.jpg)
 
 ---
 
-## 🚀 Live Preview
 
-🔗 [View Live Website](#)  
-*(Add link here if hosted on GitHub Pages, Netlify, or Vercel)*
-
----
 
 ## 🛠️ Technologies Used
 
